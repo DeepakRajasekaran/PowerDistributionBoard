@@ -2,6 +2,7 @@
 
 **Document Revision:** v1.1  
 **Project:** 4S Battery Protection and Power Distribution Board  
+**Repository:** [https://github.com/DeepakRajasekaran/PowerDistributionBoard.git](https://github.com/DeepakRajasekaran/PowerDistributionBoard.git)  
 **Date:** October 22, 2026  
 **EDA Suite:** KiCad 9.0.x  
 
